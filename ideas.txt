@@ -1,0 +1,49 @@
+*************************
+|   The gym dex ideas   |
+*************************
+
+/// Landing page
+- option to input post code/area
+
+map view/list view sort of like propertypal
+can filter by location, opening hours, equipment list, day pass providers, events on soon
+
+display gym name, key features in a card format
+Discussion box under each gym 
+Upvote/downvote under each gym
+save to favourites
+notify for any new events for users when they sign in
+
+click on a card and itll come up with the following info:
+- name, location, opening hours
+- membership types, day pass etc
+- equipment list
+- events that are on, classes, timetables etc
+- shop/facilities available
+- discussion section/comments
+- like/dislikes buttons
+- contact details
+
+/// log in page
+- log in for gym owner
+- log in for user
+
+/// gym owner page
+- lets them manage all info about their gyms on the site pay for promotion etc
+- can see traffic to their listings
+
+/// 2nd hand equipment sales/supplement sales
+- registered users can sell equipment/supplements in a facebook marketplace format
+Can potentially take it to the next level and offer postage capabilities/online shop
+
+*************************
+|   Dev Log	        |
+*************************
+
+03/08/2025
+- Started this project back up 
+Need to get a git repo set up to keep track of things
+Will use chatgpt base to get started
+Think ill need a DB schema to get it going
+
+
