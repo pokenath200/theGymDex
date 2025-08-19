@@ -1,6 +1,9 @@
 *************************
 |   The gym dex ideas   |
 *************************
+// description
+The app is called "the gymdex" and will offer an interactive map that shows a list of gyms and each gym has a listing which contains stuff like opening hours, equipment list, classes, membership deals, drop in rates and a comment/discussion section. There will also be a 2nd hand equipment marketplace and a rating system.
+
 
 /// Landing page
 - option to input post code/area
@@ -45,5 +48,10 @@ Can potentially take it to the next level and offer postage capabilities/online 
 Need to get a git repo set up to keep track of things
 Will use chatgpt base to get started
 Think ill need a DB schema to get it going
+
+19/08/2025
+- passion for this has somewhat returned would be cool to make it a reality
+got copilot working in vs code might as well use the tools i have.
+
 
 
